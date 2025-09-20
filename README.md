@@ -138,8 +138,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/yasmineM27/yasmineM27/output/snake.svg" alt="Snake animation" />
 
 ###
